@@ -97,6 +97,7 @@ namespace AdventOfCode2023
         }
 
         // build a dictionary of the possible text numbers
+        // I love you - ayu 2023
         private static void InitializeNumberNames()
         {
             numberNames.Clear();
